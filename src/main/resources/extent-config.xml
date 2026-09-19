@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreport>
+    <configuration>
+        <!-- Document Title -->
+        <documentTitle>Playwright Automation Execution Report</documentTitle>
+
+        <!-- Report Name -->
+        <reportName>Test Automation Spark Report</reportName>
+
+        <!-- Report Headline / Theme -->
+        <theme>STANDARD</theme>
+
+        <!-- Date Time Format -->
+        <dateFormat>yyyy-MM-dd HH:mm:ss</dateFormat>
+
+        <!-- Custom CSS for styling -->
+        <css>
+            <![CDATA[
+                .badge-primary { background-color: #007bff; }
+                node.graph-container { display: none; }
+            ]]>
+        </css>
+
+        <!-- Custom JavaScript -->
+        <js>
+            <![CDATA[
+                $(document).ready(function() {
+                    // Custom JS adjustments if needed
+                });
+            ]]>
+        </js>
+    </configuration>
+</extentreport>
